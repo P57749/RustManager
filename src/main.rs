@@ -39,7 +39,7 @@ fn main() {
     let one_char: char = 'a';
 
     // floats
-    let the_float: f32 = 2.5; 
+    let the_float: f32 = 2.589; 
     println!("this is a float {}", the_float);
 
     
